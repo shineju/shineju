@@ -4,7 +4,7 @@
 
 
 <div align=center>
-	<h1>🛠️Tech Stack🛠️</h1>
+	<h2>🛠️Tech Stack🛠️</h2>
 	<p>Techs that I've used at least once</p>
 </div>
 
