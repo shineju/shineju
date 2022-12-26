@@ -5,6 +5,7 @@
 
 <div align=center>
 	<h1>🛠️Tech Stack🛠️</h1>
+	<p>Techs that I've used at least once</p>
 </div>
 
 <div align="center">
