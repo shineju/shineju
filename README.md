@@ -1,4 +1,4 @@
-<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&height=200&section=header&text=yoonju%20shim&fontSize=90&fontColor=ffffff)
 
 
@@ -14,4 +14,4 @@
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 </div>
-</div>
+
