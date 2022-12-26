@@ -1,8 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&height=200&section=header&text=yoonju%20shim&fontSize=90&fontColor=ffffff)
 <br>
+<br>
 <div align=center>
-	<h3>🛠️Tech Stack🛠️</h3>
+	<h1>🛠️Tech Stack🛠️</h1>
 	<p>Techs that I've used at least once</p>
 </div>
 
