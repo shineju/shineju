@@ -26,7 +26,7 @@
 <br>
 <br>
 <div align=center>
-	<h3>Profile</h3>
+	<h3>👩🏻‍💻Profile👩🏻‍💻</h3>
 	<a href="https://accessible-barber-2ef.notion.site/s-profile-6ad6ba5d27d14a21b744d99cffd7d742">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
