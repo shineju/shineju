@@ -30,4 +30,6 @@
 	<a href="https://accessible-barber-2ef.notion.site/s-profile-6ad6ba5d27d14a21b744d99cffd7d742">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
+	
+	<img src="https://github-readme-stats.vercel.app/api?username=shineju&show_icons=true">
 </div>
